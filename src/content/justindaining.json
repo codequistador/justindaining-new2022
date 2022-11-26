@@ -1,0 +1,196 @@
+{
+  "kudos": [
+    "Justin has done a great job of adding to his current talents. His continued efforts to learn EmberJS have lead to bigger contributions to our Front-end stack",
+    "He's like the tech teams own Mike Rowe. Always more than happy to jump into the craptastic stuff nobody else wants to do and make sense of it... like IE bug testing, visitor badges, emails, and wrangling wordpress... and he does it with as without ever losing that grin (or is it a grimace) he always wears around.",
+    "Justin in continually bringing it at work in the mountains and everywhere in between. Recently he used his friends dinner to help bring in children's books for our teem startup santa book drive. He is continually going the extra mile!",
+    "Developers are generally a grouchy, wall-hugging, and pessimistic lot. Justin's positive attitude is constant, and he's always looking for the good in folks and finding ways to reach across departments to build bridges.",
+    "Justin removed 110kb of production stylesheet that we no longer use, and then even took the time to explain what that means to a non-dev mind. (7000 lines of code, or 1/3 of the styles every page has to load). Doing good things.",
+    "Justin is pure and good energy. He walks around the office with a smile on his face and the sweetest attitude. He kicks serious butt at making our site beautiful... His laugh is infectious and his demeanor makes any day brighter.",
+    "Justin's work leading up to and night of the rebrand was kick-ass. Justin sunk his teeth into whatever was needed and got it done, leading folks along the way.",
+    "Justin absolutely crushed the public index. He showed an incredible amount of expertise and ability when it came to working with our agency and in a wordpress environment. They commented at how easy he made it for them to incorporate his work and made it a flawless transition.",
+    "Justin has been killing it on labels, particularly for Linkedin. He has been able to take a project that was thrown at him and learn it quickly. Linkedin has grown because of his speed in getting those labels done. Thanks a lot man"
+  ],
+  "experience": [
+    {
+      "company": "Instructure",
+      "time_frame": "May, 2017 - Present",
+      "position": "UX Developer/Product Owner",
+      "url": "www.getbridge.com"
+    },
+    {
+      "company": "Teem",
+      "time_frame": "Feb, 2016 - Apr, 2017",
+      "position": "Frontend User Interface Engineer",
+      "url": "www.teem.com"
+    },
+    {
+      "company": "Rumor Advertising",
+      "time_frame": "2014 - 2016",
+      "position": "Developer",
+      "url": "www.rumoradvertising.com"
+    },
+    {
+      "company": "The Image Shoppe",
+      "time_frame": "2012 - 2014",
+      "position": "Codequistador",
+      "url": "www.theimageshoppe.com"
+    },
+    {
+      "company": "Solidus Design",
+      "time_frame": "2007 - 2012",
+      "position": "Web Developer",
+      "url": "www.solidusdesign.com"
+    }
+  ],
+  "tools": [
+    "MacBook Pro 13",
+    "ExpressionEngine (CMS)",
+    "Craft (CMS)",
+    "Statamic (CMS)",
+    "Wordpress (Blogging / CMS Platform)",
+    "Gatsby, Jekyll, Pelican (Static Site Generators)",
+    "React Storybook",
+    "WooCommerce (eCommerce)",
+    "CartThrob (eCommerce)",
+    "Zen-Cart (eCommerce)",
+    "Magento (eCommerce)",
+    "Git",
+    "Responsive Web Development",
+    "HTML5 & CSS3",
+    "SASS/SCSS/BabelJS",
+    "Javascript (React, EmberJS, AngularJS) / JQuery",
+    "PHP",
+    "MySQL / phpMyAdmin",
+    "Node, NPM, and Bower",
+    "Python/Django",
+    "Gulp, Grunt, and Webpack",
+    "Search Engine Optimization (SEO)",
+    "Email Marketing",
+    "Social Networking (Facebook, Twitter, + more)",
+    "Adobe Creative Suite",
+    "DNS/Server Management"
+  ],
+  "results": [
+    {
+      "site_name": "Bridge UI Components",
+      "url": "www.getbridge.com",
+      "tools": "2017 - Present",
+      "notes": "React Component Library"
+    },
+    {
+      "site_name": "Teem",
+      "url": "www.teem.com",
+      "tools": "2016/17 - Software",
+      "notes": "Django, Ember, Jekyll, and more."
+    },
+    {
+      "site_name": "Patent",
+      "url": "www.teem.com/workplace-productivity-index",
+      "tools": "Generation of Public Index Interface Displaying Meeting-Related Insights",
+      "notes": "Filed September 30, 2016"
+    },
+    {
+      "site_name": "Living Style Guide",
+      "url": "",
+      "tools": "2016 - Jekyll, Gulp, SCSS",
+      "notes": ""
+    },
+    {
+      "site_name": "Brighton Resort",
+      "url": "www.brightonresort.com",
+      "tools": "2014 - Wordpress, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Snap Advances",
+      "url": "www.snapadvances.com",
+      "tools": "2016 - Wordpress, SASS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Legend Solar",
+      "url": "www.legendsolar.com",
+      "tools": "2016 - Wordpress, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "FlyDive",
+      "url": "www.flydive.com",
+      "tools": "2015 - Wordpress, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Packsize",
+      "url": "www.packsize.com",
+      "tools": "2015 - Wordpress Multisite, SCSS",
+      "notes": "Responsive, Multi-Site, Languages"
+    },
+    {
+      "site_name": "The Divining Rod",
+      "url": "www.thediviningrod.com",
+      "tools": "2015 - Wordpress, WooCommerce, SCSS",
+      "notes": "Responsive, eCommerce"
+    },
+    {
+      "site_name": "Leaders for Clean Air",
+      "url": "www.leadersforcleanair.org",
+      "tools": "2014 - Statamic, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Grove Restaurant",
+      "url": "www.groverestaurant.com",
+      "tools": "2014 - Expressionengine, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Local First",
+      "url": "www.localfirst.com",
+      "tools": "2014 - Expressionengine, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Bazzani Associates",
+      "url": "www.bazzani.com",
+      "tools": "2014 - Expressionengine, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Rockford Construction",
+      "url": "www.rockfordconstruction.com",
+      "tools": "2014 - ExpressionEngine, SCSS",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Local Treasures",
+      "url": "www.localtreasure.org",
+      "tools": "2013 - ExpressionEngine",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Entravos",
+      "url": "www.entravos.net",
+      "tools": "2013 - ExpressionEngine",
+      "notes": "Responsive"
+    },
+    {
+      "site_name": "Bistro Bella Vita",
+      "url": "www.bistrobellavita.com",
+      "tools": "2013 - ExpressionEngine",
+      "notes": ""
+    },
+    {
+      "site_name": "TechSlinger",
+      "url": "www.techslinger.com",
+      "tools": "2012 - ExpressionEngine, CartThrob",
+      "notes": ""
+    }
+  ],
+  "contact": [
+    {
+      "email": "justin@justindaining.com",
+      "phone": "616.322.4295",
+      "github": "codequistador"
+    }
+  ]
+}
