@@ -3,7 +3,7 @@ import React from "react"
 import styled from "@emotion/styled"
 
 import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Seo from "../components/seo"
 import Experience from "../components/experience"
 import Kudos from "../components/kudos"
 import Tools from "../components/tools"
@@ -18,7 +18,7 @@ const H2 = styled.h2``
 
 const IndexPage = () => (
   <Layout>
-    <SEO
+    <Seo
       title="Home"
       keywords={[`design systems`, `ui`, `ux`, `developer`, `technologist`]}
     />
